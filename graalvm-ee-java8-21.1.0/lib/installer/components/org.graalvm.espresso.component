@@ -1,0 +1,14 @@
+#Fri May 28 17:25:24 ICT 2021
+Bundle-Name=Java on Truffle
+Bundle-RequireCapability-graalvm_version=21.1.0
+Bundle-RequireCapability-java_version=8
+Bundle-RequireCapability-os_arch=amd64
+Bundle-RequireCapability-os_name=windows
+Bundle-Symbolic-Name=org.graalvm.espresso
+Bundle-Version=21.1.0
+x-GraalVM-Component-Origin=https\://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA8_21_1_0/espresso-installable-svm-svmee-java8-windows-amd64-21.1.0-signed.jar
+x-GraalVM-Message-PostInst=\nThis version of Java on Truffle is experimental. We do not recommended it for production use.\n\nUsage\: java -truffle [-options] class [args...]\n           (to execute a class)\n    or java -truffle [-options] -jar jarfile [args...]\n           (to execute a jar file)\n\nTo rebuild the polyglot library\:\n    gu rebuild-images libpolyglot -cp %GRAALVM_HOME%\\jre\\lib\\graalvm\\lib-espresso.jar
+x-GraalVM-Polyglot-Part=true
+x-GraalVM-Serial=c4ec9741a86ef55d8ef8be6585792962aa9d0032630c07d432cad9de7f5adb8d
+x-GraalVM-Stability-Level=experimental
+x-GraalVM-Working-Directories=jre\\languages\\java

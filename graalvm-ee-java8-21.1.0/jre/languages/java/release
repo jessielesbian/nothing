@@ -1,0 +1,7 @@
+JAVA_VERSION="1.8.0_291"
+OS_NAME="windows"
+OS_ARCH="amd64"
+GRAALVM_VERSION="21.1.0"
+SOURCE="espresso:dc4d2d6bdda1e7262bbae3291475e02fd498f382"
+COMMIT_INFO={"espresso": {"commit.committer": "Gilles Duboscq <gilles.m.duboscq@oracle.com>", "commit.committer-ts": 1618572208, "commit.rev": "dc4d2d6bdda1e7262bbae3291475e02fd498f382"}}
+component_catalog="uln://linux-update.oracle.com/rpc/api/?linux=generic_linux_x86_64_graalvm_jdk8&macos=macos_64_graalvm_jdk8&windows=windows_64_graalvm_jdk8|https://www.graalvm.org/component-catalog/graal-updater-ee-component-catalog-java8.properties"
