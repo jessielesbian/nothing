@@ -1,0 +1,136 @@
+This software is distributed under the Oracle EARLY ADOPTER VERSIONS
+license. For the purposes of the license below, the "Associated
+Program" is the GraalVM core software distribution.
+
+
+License for Early Adopter Versions
+
+Definitions
+-----------
+"Oracle" refers to Oracle America, Inc. "You" and "Your" refers to
+(a) a company or organization (each an "Entity") accessing the
+Early Adopter Versions, if use of the Early Adopter Versions will be
+on behalf of such Entity; or (b) an individual accessing the Early
+Adopter Versions, if use of the Early Adopter Versions will not be
+on behalf of an Entity. "Associated Program" refers to a Program
+provided to You by Oracle. "Early Adopter Version(s)" refers to Oracle
+software identified as "Early Adopter" that is provided to You
+by Oracle as a component of and for use with the Associated Program,
+together with any updates and error corrections thereto and/or EA
+Documentation provided to You by Oracle. "EA Documentation" refers
+to user manuals and installation manuals, if any, associated with the
+relevant Early Adopter Version. If available, EA Documentation may be
+delivered with the Early Adopter Versions and/or may be accessed from
+www.oracle.com/documentation. "Excluded License" means any license
+that requires as a condition of use, modification, and/or distribution
+of software subject to the Excluded License, that such software or
+other software combined and/or distributed with such software be
+(a) disclosed or distributed in source code form under the terms of
+the Excluded License or otherwise; or (b) licensed for the purpose
+of making derivative works. "Separate Terms" refers to separate
+license terms that are specified in the EA Documentation, readmes
+or notice files and that apply to Separately Licensed Third Party
+Technology. "Separately Licensed Third Party Technology" refers to
+third party technology that is licensed under Separate Terms and not
+under the terms of this license.
+
+License Rights
+--------------
+Oracle grants You a nonexclusive, nontransferable, limited license to
+use the Early Adopter Versions and output created by the Early Adopter
+Versions, subject to the license terms and restrictions that apply
+to the Associated Program, and further subject to the terms of this
+License for Early Adopter Versions.
+
+All rights not expressly granted in this License for Early Adopter
+Version are reserved by Oracle.
+
+License Restrictions
+--------------------
+Output created by the Early Adopter Versions include proprietary
+materials that prevent such output from being placed under an Excluded
+License or other open source terms. You may not distribute the output
+created by the Early Adopter Versions under an Excluded License or
+other open source terms nor take any other action that would have the
+effect of requiring such distribution. Without limiting the foregoing,
+You may not distribute any application or code that combines the Early
+Adopter Versions and output created by the Early Adopter Versions, or
+any portion thereof, with any software that is subject to any version
+of the GNU General Public License (GPL) or any license with a similar
+reciprocal license obligation in a manner that would create a combined
+or derivative work (including but not limited to distribution to any
+third party contractor, affiliate, or subsidiary, or any employee
+thereof that is not entitled to receive the Associated Program under
+this Agreement).
+
+The Early Adopter Versions may contain source code that, unless
+expressly licensed herein for other purposes (for example, licensed
+under an open source license), is provided solely for reference
+purposes and may not be modified.
+
+Early Adopter Versions
+----------------------
+Early Adopter Versions are subject to ongoing development, testing,
+and modification. Oracle may significantly change the features and
+functionality of Early Adopter Versions and future releases may
+include changes that are incompatible with the current version. Oracle
+may also place limits on backports. You may be required to change Your
+application significantly to use future versions of the Early Adopter
+Versions. Any development or other work You undertake with the Early
+Adopter Versions is at Your sole risk.
+
+Third-Party Technology
+----------------------
+The Early Adopter Versions may contain or require the use of third
+party technology that is provided with the Early Adopter Versions.
+Oracle may provide certain notices to You in EA Documentation, readmes
+or notice files in connection with such third party technology.
+Third party technology will be licensed to You either under the
+terms of this Agreement or, if specified in the EA Documentation,
+readmes or notice files, under Separate Terms. Your rights to use
+Separately Licensed Third Party Technology under Separate Terms are
+not restricted in any way by this Agreement. However, for clarity,
+notwithstanding the existence of a notice, third party technology that
+is not Separately Licensed Third Party Technology shall be deemed part
+of the Early Adopter Versions and is licensed to You under the terms
+of this Agreement.
+
+Source Code for Open Source Software
+------------------------------------
+For software that You receive from Oracle in binary form that is
+licensed under an open source license that gives You the right to
+receive the source code for that binary, You can obtain a copy of
+the applicable source code from https://oss.oracle.com/sources/ or
+http://www.oracle.com/goto/opensourcecode. If the source code for such
+software was not provided to You with the binary, You can also receive
+a copy of the source code on physical media by submitting a written
+request pursuant to the instructions in the "Written Offer for Source
+Code" section of the latter website.
+
+Disclaimer of Warranties
+------------------------
+THE EARLY ADOPTER VERSIONS ARE PROVIDED "AS IS" WITHOUT WARRANTY
+OF ANY KIND. ORACLE FURTHER DISCLAIMS ALL WARRANTIES, EXPRESS AND
+IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+Limitation of Liability
+-----------------------
+IN NO EVENT WILL ORACLE BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF
+PROFITS, REVENUE, DATA OR DATA USE, INCURRED BY YOU OR ANY THIRD
+PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF ORACLE HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ORACLE'S ENTIRE
+LIABILITY FOR DAMAGES UNDER THIS AGREEMENT SHALL IN NO EVENT EXCEED
+ONE THOUSAND DOLLARS (U.S. $1,000).
+
+Notices
+-------
+Should You have any questions concerning this license, or if You
+desire to contact Oracle for any reason, please write:
+
+Oracle America, Inc.
+500 Oracle Parkway
+Redwood City, CA 94065
+
+ Last updated: 28 January 2021

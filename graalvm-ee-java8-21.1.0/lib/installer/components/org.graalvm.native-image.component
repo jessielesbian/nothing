@@ -1,0 +1,11 @@
+#Fri May 28 17:14:07 ICT 2021
+Bundle-Name=Native Image
+Bundle-RequireCapability-graalvm_version=21.1.0
+Bundle-RequireCapability-java_version=8
+Bundle-RequireCapability-os_arch=amd64
+Bundle-RequireCapability-os_name=windows
+Bundle-Symbolic-Name=org.graalvm.native-image
+Bundle-Version=21.1.0
+x-GraalVM-Component-Origin=https\://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA8_21_1_0/native-image-installable-svm-svmee-java8-windows-amd64-21.1.0-signed.jar
+x-GraalVM-Serial=8a39dcc072c83eecd1612ea523867ba19f65ddfa711e94a1debf310b0d3269d9
+x-GraalVM-Stability-Level=earlyadopter
