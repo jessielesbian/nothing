@@ -2,7 +2,7 @@ image:
   - Visual Studio 2019
 build_script:
  - call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"
- - graalvm-ee-java8-21.1.0\bin\native-image.cmd -H:Optimize=2 -Dgraal.CompilerConfiguration=enterprise -H:AOTInliningSizeMaximum=65536 -H:AOTInliningSizeMinimum=0 --pgo=default.iprof --macro:espresso-library
+ - graalvm-ee-java8-21.1.0\bin\native-image.cmd -H:Optimize=2 -Dgraal.CompilerConfiguration=enterprise -H:AOTInliningSizeMaximum=65536 -H:AOTInliningSizeMinimum=0 --pgo-instrument --macro:jvmcicompiler-library
  - 7z a -mm=Deflate -mmt=on -mx=9 nucleargraal.zip .\graalvm-ee-java8-21.1.0\*
 artifacts:
  - path: nucleargraal.zip
